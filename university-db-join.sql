@@ -1,0 +1,1 @@
+-- 1. Selezionare tutti gli studenti al corso di laurea in Economia
